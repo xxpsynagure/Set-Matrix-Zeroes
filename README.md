@@ -66,7 +66,7 @@ The best solution has **Space Complexity** of **O(n)**.
 
 3. Set your streams so you can sync your clone with the original repo (get the latest updates).
 
-   - `git remote add upstream https://github.com/GDSC-SJEC/Set-Matrix-Zeros.git`
+   - `git remote add upstream https://github.com/GDSC-SJEC/Set-Matrix-Zeroes.git `
    - `git pull upstream main`
    - The above 2 commands will synchronize your forked version of the project with the actual repository.
 
