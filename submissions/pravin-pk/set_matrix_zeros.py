@@ -1,4 +1,4 @@
-# Time Complexity O(m+n)
+# Time Complexity O(m*n)
 # Space Complexity O(m+n)
 
 import numpy as np
